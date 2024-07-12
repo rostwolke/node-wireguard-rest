@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "wireguard-wrapper": "^1.0.1"
+    "wireguard-wrapper": "^1.0.3"
   },
   "devDependencies": {},
   "scripts": {
